@@ -1,7 +1,7 @@
 # scrap
 ### Software Installation Process 
 
-# Extract Venom.zip in internal storage
+#### Extract Venom.zip in internal storage
 # apt update && apt upgrade -y
 # pkg install python
 # pip install colorama
